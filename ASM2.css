@@ -93,7 +93,7 @@ img{
 
 /* Hero */
 #hero{
-    background-image: url(leesin.jpg);
+    background-image: url(image/leesin.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -198,7 +198,7 @@ img{
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(jax.jpg);
+	background-image: url(image/jax.jpg);
 	background-size: cover;
 	margin: 10px 5%;
     position: relative;
